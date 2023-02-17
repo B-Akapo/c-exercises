@@ -8,9 +8,9 @@ Description: program to print your name, date of birth. and mobile number.
 
 int main()  
 {
-    printf("Name   : Alexandra Abramov\n"); 
-    printf("DOB    : July 14, 1975\n"); 
-    printf("Mobile : 99-9999999999\n"); 
+    printf("Name   : Bunmi Akapo\n"); 
+    printf("DOB    : 22nd March\n"); 
+    printf("Mobile : 0123456789\n"); 
     return(0); 
 }
 
