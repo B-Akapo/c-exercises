@@ -18,7 +18,7 @@ int main(void)
         i++;
     }
 
-    // total is equal to the sum of the two numbers imputed by user
+    // total is equal to the sum of the two numbers imputed by user.
     total = num[0] + num[1];
 
     printf("%d + %d = %d\n", num[0], num[1], total);
