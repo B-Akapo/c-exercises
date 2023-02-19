@@ -4,4 +4,6 @@ Below is a brief description of each of the exercises
 - [1_rectangle.c](https://github.com/B-Akapo/c-exercises/blob/main/declarations_expressions/1_rectangle.c) - Program to calculate the perimeter and area of a rectangle
 - [2-circle.c](https://github.com/B-Akapo/c-exercises/blob/main/declarations_expressions/2-circle.c) - Program to compute the perimeter and area of a circle with a given radius.
 - [3-days.c](https://github.com/B-Akapo/c-exercises/blob/main/declarations_expressions/3-days.c) - Program to convert specified days into years, weeks and days
+- [4-sum.c](https://github.com/B-Akapo/c-exercises/blob/main/declarations_expressions/4-sum.c) - Program that accepts two integers from the user and calculate the sum of the two integers.
+- [5-product.c](https://github.com/B-Akapo/c-exercises/blob/main/declarations_expressions/5-product.c) - Program that accepts two integers from the user and calculate the product of the two integers
 - [print.c](https://github.com/B-Akapo/c-exercises/blob/main/declarations_expressions/print.c) - Program to print your name, date of birth. and mobile number.
