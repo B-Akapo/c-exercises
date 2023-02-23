@@ -10,5 +10,5 @@ Below is a brief description of each of the exercises
 - [7-employee.c](https://github.com/B-Akapo/c-exercises/blob/main/declarations_expressions/7-employee.c) - Program that  accepts an employee's ID, total worked hours of a month and the amount he received per hour. Print the employee's ID and salary (with two decimal places)
 - [8-max.c](https://github.com/B-Akapo/c-exercises/blob/main/declarations_expressions/8-max.c) - Program that accepts three integers and find the maximum of three
 - [9-bikeaverage.c](https://github.com/B-Akapo/c-exercises/blob/main/declarations_expressions/9-bikeaverage.c) - Program to calculate a bike’s average consumption from the given total distance (integer value) traveled (in km) and spent fuel (in liters, float number – 2 decimal point).
+- [10-two_prints.c](https://github.com/B-Akapo/c-exercises/blob/main/declarations_expressions/10-two_prints.c) -  Program to calculate the distance between the two points
 - [print.c](https://github.com/B-Akapo/c-exercises/blob/main/declarations_expressions/print.c) - Program to print your name, date of birth. and mobile number.
-10-two_prints
