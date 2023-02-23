@@ -11,3 +11,4 @@ Below is a brief description of each of the exercises
 - [8-max.c](https://github.com/B-Akapo/c-exercises/blob/main/declarations_expressions/8-max.c) - Program that accepts three integers and find the maximum of three
 - [9-bikeaverage.c](https://github.com/B-Akapo/c-exercises/blob/main/declarations_expressions/9-bikeaverage.c) - Program to calculate a bike’s average consumption from the given total distance (integer value) traveled (in km) and spent fuel (in liters, float number – 2 decimal point).
 - [print.c](https://github.com/B-Akapo/c-exercises/blob/main/declarations_expressions/print.c) - Program to print your name, date of birth. and mobile number.
+10-two_prints
