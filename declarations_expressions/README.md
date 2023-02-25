@@ -27,4 +27,6 @@ Below is a brief description of each of the exercises
 
 - [13-days.c](https://github.com/B-Akapo/c-exercises/blob/main/declarations_expressions/13-days.c) - Program to convert a given integer (in days) to years, months and days, assumes that all months have 30 days and all years have 365 days.
 
+- [14-values.c](https://github.com/B-Akapo/c-exercises/blob/main/declarations_expressions/14-values.c) - Program that accepts 4 integers p, q, r, s from the user where q, r and s are positive and p is even. If q is greater than r and s is greater than p and if the sum of r and s is greater than the sum of p and q print "Correct values", otherwise print "Wrong values"
+
 - [print.c](https://github.com/B-Akapo/c-exercises/blob/main/declarations_expressions/print.c) - Program to print your name, date of birth. and mobile number.
