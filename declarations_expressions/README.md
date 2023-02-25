@@ -25,6 +25,6 @@ Below is a brief description of each of the exercises
 
 - [12-seconds.c](https://github.com/B-Akapo/c-exercises/blob/main/declarations_expressions/12-seconds.c) - Program to convert a given integer (in seconds) to hours, minutes and seconds
 
--[13-days.c](https://github.com/B-Akapo/c-exercises/blob/main/declarations_expressions/13-days.c) - Program to convert a given integer (in days) to years, months and days, assumes that all months have 30 days and all years have 365 days.
+- [13-days.c](https://github.com/B-Akapo/c-exercises/blob/main/declarations_expressions/13-days.c) - Program to convert a given integer (in days) to years, months and days, assumes that all months have 30 days and all years have 365 days.
 
 - [print.c](https://github.com/B-Akapo/c-exercises/blob/main/declarations_expressions/print.c) - Program to print your name, date of birth. and mobile number.
