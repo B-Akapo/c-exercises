@@ -29,4 +29,10 @@ Below is a brief description of each of the exercises
 
 - [14-values.c](https://github.com/B-Akapo/c-exercises/blob/main/declarations_expressions/14-values.c) - Program that accepts 4 integers p, q, r, s from the user where q, r and s are positive and p is even. If q is greater than r and s is greater than p and if the sum of r and s is greater than the sum of p and q print "Correct values", otherwise print "Wrong values"
 
+- [15-bhaskar.c](https://github.com/B-Akapo/c-exercises/blob/main/declarations_expressions/15-bhaskar.c) - Program to print the roots of Bhaskara’s formula from the given three floating numbers. Display a message if it is not possible to find the roots. 
+
+- [16-range.c](https://github.com/B-Akapo/c-exercises/blob/main/declarations_expressions/16-range.c) - Program that reads an integer and checks the specified range to which it belongs. Print an error message if the number is negative and greater than 80
+
+- [17-odd.c](https://github.com/B-Akapo/c-exercises/blob/main/declarations_expressions/17-odd.c) - Program that reads 5 numbers and sums all odd values between them
+
 - [print.c](https://github.com/B-Akapo/c-exercises/blob/main/declarations_expressions/print.c) - Program to print your name, date of birth. and mobile number.
